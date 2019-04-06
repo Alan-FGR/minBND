@@ -4,7 +4,7 @@ We regretfully inform that the source of the minBND generator isn't currently pu
 
 ## Using the public minBND documentation in your project
 
-We recommend that you use the public minBND docs in your bindings documentation. The latest documentation will always be available in markdown (extra flavor) at [https://raw.githubusercontent.com/Alan-FGR/minBND/master/index.md](https://raw.githubusercontent.com/Alan-FGR/minBND/master/docs.md). Feel free to parse that file directly, or point your users either to the GitHub link [here](https://github.com/Alan-FGR/minBND/blob/master/docs.md), or [this link](https://alan-fgr.github.io/minBND/) which renders the markdown in the client browser.
+We recommend that you use the public minBND docs in your bindings documentation. The latest documentation will always be available in markdown (extra flavor) at [https://raw.githubusercontent.com/Alan-FGR/minBND/master/docs.md](https://raw.githubusercontent.com/Alan-FGR/minBND/master/docs.md). Feel free to parse that file directly, or point your users either to the GitHub link [here](https://github.com/Alan-FGR/minBND/blob/master/docs.md), or [this link](https://alan-fgr.github.io/minBND/) which renders the markdown in the client browser.
 
 ## Documentation License
 
